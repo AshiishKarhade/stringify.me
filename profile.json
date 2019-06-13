@@ -2,14 +2,14 @@
 	"basics": {
 		"name": "Ashish Karhade",
 		"label": "Data Science | Machine Learning",
-		"picture": "10748724928_IMG_0093.JPG",
+		"picture": "profile.jpg",
 		"email": "akarhade@gmail.com",
 		"phone": " +91 7066462818",
 		"website": "https://ashiishkarhade.com/",
 		"twitter": "https://twitter.com/ashiishkarhade",
 		"facebook": "https://www.facebook.com/ashiishkarhade",
 		"github": "http://github.com/ashiishkarhade",
-		"summary": "I work as a developer, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"summary": "I’m a developer with an interest in Data Science, Machine Learning, Deep Learning and Artificial Intelligence. For over 3 years, I’ve been writing code. I started my development journey as an Android app developer and iOS app developer. I also did Web Development with Flask and Django. I then started Data Science and Machine Learning and now I am in love with it. I am Google Cloud Facilitator and also Developer Students Club core member in the college. We try to make projects to solve problems of small business owners. "
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
